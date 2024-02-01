@@ -22,5 +22,6 @@ public class bt1 {
             System.out.print("a bang b");
         else 
             System.out.print("a nho hon b");
+        sc.close();
     }
 }

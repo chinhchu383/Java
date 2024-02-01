@@ -14,6 +14,6 @@ public class PhuongTrinhBac1 {
         }
 
         sc.close();
-}
+    }
 }
 

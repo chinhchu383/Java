@@ -11,5 +11,6 @@ public class bt2 {
             System.out.print(a +" la so le");
 
         }
+        sc.close();
     }
 }

@@ -15,14 +15,15 @@ public class PhuongTrinhBac2 {
         }else if(delta == 0)
         {
             x1 = -b / (2*a);
-            System.out.printf("phuong trinh co nghiem kep x = %f", x1);
+            System.out.printf("phuong trinh co nghiem kep x = %.2f", x1);
         }
         else
         {
             x1 = ((-b) + Math.sqrt(delta)) / (2*a);
             x2 = ((-b) - Math.sqrt(delta)) / (2*a);
             System.out.print("phuong trinh co 2 nghiem");
-            System.out.printf("x1 = "+ x1 + ", x2 ="+ x2);
+            System.out.printf("x1 = "+x1 + ", x2 ="+x2);
     }
+    sc.close();
     }
 }
