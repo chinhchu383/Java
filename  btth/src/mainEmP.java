@@ -3,9 +3,9 @@
  */
 public class mainEmP {
     public static void main(String[] args) {
-        employee a =new employee();
-        a.NhapTT();
-        a.XuatTT();
+        employee b =new employee();
+        b.NhapTT();
+        b.XuatTT();
     }
     
 }
