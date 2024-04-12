@@ -18,9 +18,10 @@ public class FullTime extends employee {
         System.out.print("nhap so tien thuong: ");Thuong = sc.nextFloat();
         System.out.print("nhap so tien tam ung ");TamUng = sc.nextFloat();
     }
-    public void TinhLuong()
+    public float TinhLuong()
     {
         Luong = LuongCung + Thuong - TamUng;
+        return Luong;
     }
     public void XuatThongTin()
     {
