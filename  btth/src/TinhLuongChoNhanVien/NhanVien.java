@@ -13,10 +13,13 @@ public class NhanVien {
     }
     public String LoaiNhanVien()
     {
-        return "";
+        return "Chu Van Chinh";
     }
     public void XuatThongTin()
     {
-        System.out.println("ten: " + ten + " \n luong: "+luong + " \n chuc vu: "+ LoaiNhanVien()) ;
+        System.out.println("Ten nhan vien: "+ ten) ;
+        System.out.println("Luong: "+ luong+" VND");
+        System.out.println("Chuc vu: "+ LoaiNhanVien());
+        System.out.println("-------------------------");
     }
 }
