@@ -1,7 +1,7 @@
 package LopTruuTuong;
 abstract class printable {
     abstract void run();
-
+}
 public class A6 implements printable {
     public void print(){
         System.out.println("Hello ");
@@ -11,3 +11,4 @@ public class A6 implements printable {
         b.print();
     }
 }
+
