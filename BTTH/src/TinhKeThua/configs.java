@@ -1,4 +1,4 @@
-package TinhLuongChoNhanVien;
+package TinhKeThua;
 
 public class configs {
     public static final int NhanVienSep = 1;

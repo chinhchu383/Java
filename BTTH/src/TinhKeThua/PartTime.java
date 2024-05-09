@@ -1,4 +1,4 @@
-package TinhLuongChoNhanVien;
+package TinhKeThua;
 public class PartTime extends NhanVien {
     public int gioLamThem;
     public PartTime(String ten , int gioLamThem)

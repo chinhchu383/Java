@@ -1,4 +1,4 @@
-package btchuong4;
+package ArrayList;
 
 import java.util.Scanner;
 

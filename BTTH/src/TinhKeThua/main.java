@@ -1,4 +1,4 @@
-package TinhLuongChoNhanVien;
+package TinhKeThua;
 
 public class main {
     public static void main(String[] args) {

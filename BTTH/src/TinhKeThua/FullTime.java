@@ -1,4 +1,4 @@
-package TinhLuongChoNhanVien;
+package TinhKeThua;
 
 public class FullTime extends NhanVien {
     public int NgayLamThem;

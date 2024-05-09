@@ -1,4 +1,4 @@
-package btchuong4;
+package ArrayList;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -47,7 +47,6 @@ public class demo1 {
         // arrlistint.isEmpty();
         // arrlistint.indexOf(5);
         // arrlistint.contains(6);
-        Collection.sort(arrlistint);
         arrlistint.clear();
     }
 }

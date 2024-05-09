@@ -1,4 +1,4 @@
-package TinhLuongChoNhanVien;
+package TinhKeThua;
 
 public class NhanVien {
     public String ten;
