@@ -1,4 +1,6 @@
 package LopTruuTuong;
+abstract class printable {
+    abstract void run();
 
 public class A6 implements printable {
     public void print(){
