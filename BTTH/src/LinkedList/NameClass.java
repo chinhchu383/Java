@@ -15,13 +15,11 @@ public class NameClass {
             a = sc.nextInt();
             linkedlist.add(a);
         }
-        linkedlist.add(3);
-        linkedlist.add(3, 5);
-        linkedlist.addFirst(56);
+        
         for (int i = 0; i <= linkedlist.size(); i++) {
             System.out.println(linkedlist.get(i));
         }
-        System.out.println(linkedlist.element());
+
     }
 
     }
