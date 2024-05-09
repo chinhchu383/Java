@@ -1,5 +1,6 @@
 package BTchuong2;
 
+
 import java.util.Scanner;
 public class PhuongTrinhBac1 {
     public static void main(String[] args) throws Exception {

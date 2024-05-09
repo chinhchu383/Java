@@ -1,5 +1,7 @@
 package BTchuong2;
 
+
+
 public class ChiaHetCho5 {
     public static void main(String[] args) {
         System.out.println("cac so chia het cho 5: ");

@@ -1,4 +1,4 @@
-
+package BTchuong3;
 import HinhHoc.HinhHoc;
 import HinhHoc.HinhChuNhat;
 import HinhHoc.HinhTron;
