@@ -28,8 +28,7 @@ public class treeset {
             tree.add(num);
             System.out.println("Them thanh cong");
             System.out.println("Cac phan tu trong tree sau khi them");
-            System.out.println(tree);
-        }
+            System.out.println(tree);}
         System.out.println("nhap phan tu can xoa: ");
         int t = sc.nextInt();
         if(tree.contains(t))
