@@ -12,9 +12,7 @@ public class employee extends person {
         System.out.print("nhap ma nhan vien: ");
         maNV = sc.nextLine();
         System.out.print("nhap so gio lam viec: ");
-        sogiolamviec = sc.nextFloat();
-        
-    }
+        sogiolamviec = sc.nextFloat();}
     public void XuatThongTin()
     {
         super.XuatThongTin();
