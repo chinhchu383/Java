@@ -21,9 +21,7 @@ public class linked{
         LinkedList<String>listB = new LinkedList<>();
         listB.add("JAVA");
         listA.retainAll(listB);
-        showList(listB);
-
-    }
+        showList(listB);}
 
 public static void showList(LinkedList<String> linkedList)
 {

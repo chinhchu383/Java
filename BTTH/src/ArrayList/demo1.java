@@ -44,9 +44,9 @@ public class demo1 {
         for (int i = 0;i < arrlistint.size() ; i++) {
             System.out.println("phan tu trong mang: "+ arrlistint.get(i)) ;
         }
-        // arrlistint.isEmpty();
-        // arrlistint.indexOf(5);
-        // arrlistint.contains(6);
+        arrlistint.isEmpty();
+        arrlistint.indexOf(5);
+        arrlistint.contains(6);
         arrlistint.clear();
     }
 }

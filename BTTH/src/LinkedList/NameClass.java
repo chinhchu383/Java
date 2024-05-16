@@ -14,8 +14,7 @@ public class NameClass {
             int a;
             System.out.println("nhap phan tu: ");
             a = sc.nextInt();
-            linkedlist.add(a);
-        }
+            linkedlist.add(a);}
         
         for (int i = 0; i <= linkedlist.size(); i++) {
             System.out.println(linkedlist.get(i));
